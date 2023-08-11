@@ -1,3 +1,5 @@
+//Exercídio destinado a receber informações cadastrais de um aluno.
+
 package Exercicio1;
 public class Aluno {
     
@@ -18,7 +20,7 @@ public class Aluno {
         this.n1 = n1;
         this.n2 = n2;
         this.n3 = n3;
-        /
+        
                 
     }
 }
