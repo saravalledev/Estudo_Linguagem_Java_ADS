@@ -1,4 +1,6 @@
-//Exercídio destinado a receber informações cadastrais de um aluno.
+//Esse código define uma estrutura básica para representar um aluno com informações como nome, 
+//código de matrícula (cdm), CPF, sexo e três notas (n1, n2, n3). O construtor permite criar
+//um objeto Aluno com essas informações específicas.
 
 package Exercicio1;
 public class Aluno {
