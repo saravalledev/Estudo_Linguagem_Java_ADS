@@ -1,4 +1,13 @@
+//Esse código cria um objeto da classe Funcionario, define os atributos ao mesmo 
+//e imprime as informações na saída do console.
+
 package exercicios;
+
+class Funcionario {
+    String nome;
+    String email;
+    String CPF;
+}
 public class Exercicios {
     public static void main(String[] args) {
             
